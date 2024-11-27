@@ -2,6 +2,9 @@
 
 belajar git
 
+feature utama : 
+- feature1
+
 feature 1 : perubahan pertama
 
 feature 1 : perubahan kedua
