@@ -6,6 +6,4 @@ perubahan pertama
 
 perubahan kedua
 
-draf perubahan 1
-
-draf perubahan 2
+draf perubahan 1 & 2
