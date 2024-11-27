@@ -2,14 +2,19 @@
 
 belajar git
 
-feature 2 : perubahan pertama
+feature utama :
 
-feature 2 : perubahan kedua
+- feature1
+- feature2
 
-feature 2 : perubahan 3 & 4
+feature 1 & 2 : perubahan pertama
 
-feature 2 : perubahan 5
+feature 1 & 2 : perubahan kedua
 
-feature 2 : perubahan 6, dari browser
+feature 1 & 2 : perubahan 3 & 4
+
+feature 1 & 2 : perubahan 5
+
+feature 1 & 2: perubahan 6, dari browser
 
 coba pull request
