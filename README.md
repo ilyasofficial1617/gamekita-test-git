@@ -2,12 +2,12 @@
 
 belajar git
 
-perubahan pertama
+feature 2 : perubahan pertama
 
-perubahan kedua
+feature 2 : perubahan kedua
 
-perubahan 3 & 4
+feature 2 : perubahan 3 & 4
 
-perubahan 5
+feature 2 : perubahan 5
 
-perubahan 6, dari browser
+feature 2 : perubahan 6, dari browser
